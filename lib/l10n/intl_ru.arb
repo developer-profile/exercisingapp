@@ -1,0 +1,99 @@
+{
+  "@@last_modified": "2020-05-04T22:54:30.735980",
+  "quitApp": "Quit",
+  "@quitApp": {
+    "description": "Press to quit app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "About",
+  "@aboutApp": {
+    "description": "About app ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mySettings": "Settings",
+  "@mySettings": {
+    "description": "App settings",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDarkmode": "Darkmode",
+  "@setDarkmode": {
+    "description": "Turn darkmode on or off",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLanguage": "Language",
+  "@myLanguage": {
+    "description": "Chose app language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "heyWorld": "Привет, Мир!",
+  "@heyWorld": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "byeWorld": "Bey World",
+  "@byeWorld": {
+    "description": "Simpel word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "middleWorld": "Middle World",
+  "@middleWorld": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myBack": "Спина",
+  "@myBack": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myNeck": "Шея",
+  "@myNeck": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAbdomen": "Живот",
+  "@myAbdomen": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myChest": "Грудь",
+  "@myChest": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myButtock": "Ягодицы",
+  "@myButtock": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLumbar": "Поясница",
+  "@myLumbar": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myArms": "Руки",
+  "@myArms": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLegs": "Ноги",
+  "@myLegs": {
+    "description": "Middle word for bye ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

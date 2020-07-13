@@ -1,0 +1,4 @@
+# Project exclude paths
+/build/
+# Default ignored files
+/workspace.xml
