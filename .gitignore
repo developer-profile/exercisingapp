@@ -1,4 +1,7 @@
 # Project exclude paths
 /build/
+/android/
+/ios/
+/test/
 # Default ignored files
 /workspace.xml
